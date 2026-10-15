@@ -1,0 +1,1 @@
+# CSE122-GK-SV19-TranMinhHai-memberlog
