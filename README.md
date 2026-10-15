@@ -6,4 +6,4 @@ Các chức năng chính : Thêm/sửa/xóa buổi tập, trong file tổng thì
 Công nghệ sử dụng : Claude và ChatGPT
 Link figma : https://www.figma.com/board/ab8d0hRtFc6Q8IGomUulOl/B%C3%A0i-t%E1%BA%ADp-gi%E1%BB%AFa-k%C3%AC-c%E1%BB%A7a-Tr%E1%BA%A7n-Minh-H%E1%BA%A3i?node-id=0-1&t=9uRwXlQa5f48Zn0H-1
 Link video : 
-Link github :
+Link github : https://github.com/TranHai1411/CSE122-GK-SV19-TranMinhHai-memberlog
